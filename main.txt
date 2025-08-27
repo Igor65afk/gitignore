@@ -1,0 +1,3 @@
+tcp.cloudpub.online:10010
+tcp.cloudpub.online:10009
+tcp.cloudpub.online:10008
